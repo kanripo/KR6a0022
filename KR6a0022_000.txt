@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 寂志果經
+#+DATE: 2015-08-30 19:28:17.151890
+#+PROPERTY: JUAN 0
